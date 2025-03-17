@@ -4,7 +4,7 @@
   <img src="### 🚀 NianJiu's GitHub Profile
 
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FEFEFE&background=0D47A1&width=600&lines=Hi,+I'm+NianJiu;Computer+Science+Student;Open-Source+Enthusiast" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=ADD8E6&background=FFFFFF&width=600&lines=Hi,+I'm+NianJiu;Computer+Science+Student;Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### 👋 About Me
