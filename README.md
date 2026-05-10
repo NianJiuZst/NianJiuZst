@@ -25,7 +25,6 @@ Computer Science and Technology undergraduate at Xiamen University. My primary s
 
 - [openmeta-cli](https://github.com/NianJiuZst/openmeta-cli): An AI-powered daily open-source contribution assistant built with TypeScript.
 - [DocVault](https://github.com/NianJiuZst/DocVault): A TypeScript project focused on document management and knowledge organization.
-- [agent-context](https://github.com/NianJiuZst/agent-context): A universal context compression library for AI agents.
 
 ## Open Source
 
@@ -42,12 +41,6 @@ Computer Science and Technology undergraduate at Xiamen University. My primary s
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
-## GitHub Stats
-
-![NianJiuZst's GitHub stats](https://github-readme-stats.vercel.app/api?username=NianJiuZst&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&theme=transparent&hide_border=true)
 
 ## Contact
 
