@@ -16,7 +16,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 60 merged PRs</h3>
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 61 merged PRs</h3>
       <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
       <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -33,7 +33,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
       <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · 4 merged PRs</h3>
+      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · 6 merged PRs</h3>
       <p>Improved CLI health-check semantics, daemon session lifecycle, extension safety, and pull-request CI.</p>
       <a href="https://github.com/Tencent/BrowserSkill/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -52,7 +52,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
   </tr>
 </table>
 
-<sub>Contribution counts above were verified on 2026-08-10 and link to the corresponding merged-PR searches.</sub>
+<sub>Contribution counts above were verified on 2026-08-17 and link to the corresponding merged-PR searches.</sub>
 
 ## What I work on
 
