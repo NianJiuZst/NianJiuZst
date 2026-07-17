@@ -1,47 +1,91 @@
-# NianJiuZst
+<div align="center">
 
-Computer Science and Technology undergraduate at Xiamen University. My primary stack is TypeScript, and I am currently focused on AI agents, CLI tooling, frontend engineering, and open-source collaboration.
+# Hi, I'm NianJiu 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/NianJiuZst?style=flat&label=followers)](https://github.com/NianJiuZst?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/NianJiuZst?style=flat&label=stars)](https://github.com/NianJiuZst?tab=stars)
+### Open-source maintainer · AI agents · Developer tooling
 
-## About Me
+I build dependable AI-agent systems, polished CLIs, and developer experiences — then help make the open-source projects behind them stronger.
 
-- I primarily write TypeScript, with a focus on type safety, engineering quality, developer experience, and maintainability.
-- I am exploring AI agent tooling, including context compression, automated contribution workflows, personal AI assistants, and coding agents.
-- I actively contribute to open source. Recent contributions are centered around `openclaw/openclaw`, `the-open-agent/openagent`, `shadcn-ui/ui`, and `MiniMax-AI/cli`.
-- I like turning what I learn into reusable tools and documentation.
+[![Followers](https://img.shields.io/github/followers/NianJiuZst?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/NianJiuZst?tab=followers)
+[![Email](https://img.shields.io/badge/Email-3235467914%40qq.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3235467914@qq.com)
 
-## Interests
+</div>
 
-- TypeScript / JavaScript
-- React / Vue / Web Components
-- Node.js CLI / Developer Tools
-- AI Agents / LLM Tooling
-- Frontend Engineering / Vite / Rollup / Webpack
-- Open Source / PR Review / Bug Fixes
+## Open-source portfolio
 
-## Projects
+<img width="100%" src="./assets/oss-portfolio.svg" alt="Open-source portfolio: 56 merged OpenClaw PRs; MiniMax CLI maintainer with 18 merged PRs; 2 merged Mastra PRs; 3 merged BrowserSkill PRs; 10 merged OpenAgent PRs." />
 
-- [openmeta-cli](https://github.com/NianJiuZst/openmeta-cli): An AI-powered daily open-source contribution assistant built with TypeScript.
-- [DocVault](https://github.com/NianJiuZst/DocVault): A TypeScript project focused on document management and knowledge organization.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 56 merged PRs</h3>
+      <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
+      <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MiniMax-AI/cli">MiniMax CLI</a> · Maintainer</h3>
+      <p>18 merged PRs spanning CLI capabilities, SDK behavior, API-contract alignment, security, and release quality.</p>
+      <a href="https://github.com/MiniMax-AI/cli/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mastra-ai/mastra">Mastra</a> · 2 merged PRs</h3>
+      <p>Fixed agent-runtime and RAG chunking correctness issues, with focused regression coverage for edge cases.</p>
+      <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · 3 merged PRs</h3>
+      <p>Improved CLI health-check semantics, daemon session lifecycle, and the repository's pull-request CI.</p>
+      <a href="https://github.com/Tencent/BrowserSkill/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/the-open-agent/openagent">OpenAgent</a> · 10 merged PRs</h3>
+      <p>Built and migrated frontend foundations, improved product flows, and kept model catalogs current.</p>
+      <a href="https://github.com/the-open-agent/openagent/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NianJiuZst/openmeta-cli">OpenMeta CLI</a> · Creator</h3>
+      <p>A local-first TypeScript agent that turns daily open-source contribution work into a more deliberate workflow.</p>
+      <a href="https://github.com/NianJiuZst/openmeta-cli">Explore project →</a>
+    </td>
+  </tr>
+</table>
 
-## Open Source
+<sub>Contribution counts above were verified on 2026-07-17 and link to the corresponding merged-PR searches.</sub>
 
-- Contributed AI-assistant-related fixes and experience improvements to `openclaw/openclaw`.
-- Worked on login flows, UI infrastructure, and shadcn migration in `the-open-agent/openagent`, with multiple PRs merged.
-- Focused on component accessibility and internationalization details in `shadcn-ui/ui`.
-- Contributed CLI stability fixes to `MiniMax-AI/cli`.
+## What I work on
 
-## Tech Stack
+- **AI agents & runtimes** — dependable tool use, streaming behavior, model integrations, and agent lifecycle design.
+- **CLI & developer experience** — trustworthy diagnostics, API ergonomics, release quality, and automation that developers enjoy using.
+- **Frontend systems** — accessible UI foundations, product flows, and practical design-system migrations.
+- **Open-source collaboration** — issue triage, focused fixes, maintainable tests, thoughtful reviews, and clear evidence for maintainers.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+## GitHub snapshot
 
-## Contact
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="NianJiu's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&hide_border=true" alt="NianJiu's most-used languages" />
+  </picture>
+</div>
 
-- Email: [3235467914@qq.com](mailto:3235467914@qq.com)
+## Core stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+<div align="center">
+  <sub>Always happy to collaborate on AI agents, developer tooling, and useful open source.</sub>
+</div>
