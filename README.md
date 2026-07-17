@@ -64,8 +64,8 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences â€
 ## GitHub snapshot
 
 <div align="center">
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true#gh-light-mode-only" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs#gh-light-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
   </a>
   <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true#gh-light-mode-only">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true#gh-light-mode-only" alt="NianJiu's most-used languages" height="185" />
@@ -73,8 +73,8 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences â€
 </div>
 
 <div align="center">
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true#gh-dark-mode-only" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs#gh-dark-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
   </a>
   <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true#gh-dark-mode-only">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true#gh-dark-mode-only" alt="NianJiu's most-used languages" height="185" />
