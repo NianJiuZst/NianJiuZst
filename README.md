@@ -11,9 +11,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences â€
 
 </div>
 
-## Open-source portfolio
-
-<img width="100%" src="./assets/oss-portfolio.svg" alt="Open-source portfolio: 56 merged OpenClaw PRs; MiniMax CLI maintainer with 18 merged PRs; 2 merged Mastra PRs; 3 merged BrowserSkill PRs; 10 merged OpenAgent PRs." />
+## Open-source contributions
 
 <table>
   <tr>
@@ -66,14 +64,21 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences â€
 ## GitHub snapshot
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="NianJiu's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&hide_border=true" alt="NianJiu's most-used languages" />
-  </picture>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true#gh-light-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  </a>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true#gh-light-mode-only">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true#gh-light-mode-only" alt="NianJiu's most-used languages" height="185" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true#gh-dark-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  </a>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true#gh-dark-mode-only">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true#gh-dark-mode-only" alt="NianJiu's most-used languages" height="185" />
+  </a>
 </div>
 
 ## Core stack
