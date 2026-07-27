@@ -22,14 +22,14 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MiniMax-AI/cli">MiniMax CLI</a> · Maintainer</h3>
-      <p>19 merged PRs spanning CLI capabilities, SDK behavior, API-contract alignment, security, and release quality.</p>
+      <p>19 merged PRs across CLI capabilities, SDK behavior, H3 video integration, API-contract alignment, security, and release quality.</p>
       <a href="https://github.com/MiniMax-AI/cli/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mastra-ai/mastra">Mastra</a> · 3 merged PRs</h3>
-      <p>Fixed agent-runtime and RAG chunking correctness issues, with focused regression coverage for edge cases.</p>
+      <p>3 merged PRs covering RAG chunking, memory initialization, and focused regression coverage for edge cases.</p>
       <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
     <td width="50%" valign="top">
