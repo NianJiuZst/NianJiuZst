@@ -50,6 +50,15 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
       <a href="https://github.com/NianJiuZst/openmeta-cli">Explore project →</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Recent Java OSS work</h3>
+      <p>Contributed parser correctness, secure networking defaults, and test-infrastructure improvements across OpenRewrite, grpc-java, and Checkstyle.</p>
+      <a href="https://github.com/openrewrite/rewrite/pull/8620">OpenRewrite #8620</a> ·
+      <a href="https://github.com/grpc/grpc-java/pull/13002">grpc-java #13002</a> ·
+      <a href="https://github.com/checkstyle/checkstyle/pull/21306">Checkstyle #21306</a>
+    </td>
+  </tr>
 </table>
 
 <sub>Contribution counts above were verified on 2026-08-17 and link to the corresponding merged-PR searches.</sub>
@@ -58,6 +67,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 
 - **AI agents & runtimes** — dependable tool use, streaming behavior, model integrations, and agent lifecycle design.
 - **CLI & developer experience** — trustworthy diagnostics, API ergonomics, release quality, and automation that developers enjoy using.
+- **Java ecosystem engineering** — parser correctness, secure networking defaults, static-analysis test infrastructure, and focused regression coverage.
 - **Frontend systems** — accessible UI foundations, product flows, and practical design-system migrations.
 - **Open-source collaboration** — issue triage, focused fixes, maintainable tests, thoughtful reviews, and clear evidence for maintainers.
 
@@ -92,6 +102,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
