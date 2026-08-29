@@ -16,7 +16,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 61 merged PRs</h3>
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 63 merged PRs</h3>
       <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
       <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -33,7 +33,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
       <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · 6 merged PRs</h3>
+      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · 8 merged PRs</h3>
       <p>Improved CLI health-check semantics, daemon session lifecycle, extension safety, and pull-request CI.</p>
       <a href="https://github.com/Tencent/BrowserSkill/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -52,7 +52,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>Recent Java OSS work</h3>
+      <h3>Recent Java OSS work · 3 merged PRs</h3>
       <p>Contributed parser correctness, secure networking defaults, and test-infrastructure improvements across OpenRewrite, grpc-java, and Checkstyle.</p>
       <a href="https://github.com/openrewrite/rewrite/pull/8620">OpenRewrite #8620</a> ·
       <a href="https://github.com/grpc/grpc-java/pull/13002">grpc-java #13002</a> ·
@@ -61,7 +61,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
   </tr>
 </table>
 
-<sub>Contribution counts above were verified on 2026-08-17 and link to the corresponding merged-PR searches.</sub>
+<sub>Contribution counts above were verified on 2026-08-30 and link to merged-PR searches or individual merged PRs.</sub>
 
 ## What I work on
 
@@ -92,7 +92,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 </div>
 
 <div align="center">
-  <sub>Snapshot verified on 2026-08-23: 69 stars · 2,343 commits · 320 pull requests · 24 issues.</sub>
+  <sub>Snapshot verified on 2026-08-30: 69 stars · 2,495 commits · 324 pull requests · 24 issues.</sub>
 </div>
 
 ## Core stack
