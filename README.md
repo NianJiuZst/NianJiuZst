@@ -16,7 +16,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences â€
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> Â· 68 merged PRs</h3>
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> Â· 71 merged PRs</h3>
       <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
       <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions â†’</a>
     </td>
@@ -61,7 +61,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences â€
   </tr>
 </table>
 
-<sub>Contribution counts above were verified on 2026-09-05 and link to merged-PR searches or individual merged PRs.</sub>
+<sub>Contribution counts above were verified on 2026-09-06 and link to merged-PR searches or individual merged PRs.</sub>
 
 ## What I work on
 
