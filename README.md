@@ -16,7 +16,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 71 merged PRs</h3>
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 73 merged PRs</h3>
       <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
       <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -28,8 +28,8 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mastra-ai/mastra">Mastra</a> · 3 merged PRs</h3>
-      <p>3 merged PRs covering RAG chunking, memory initialization, and focused regression coverage for edge cases.</p>
+      <h3><a href="https://github.com/mastra-ai/mastra">Mastra</a> · 4 merged PRs</h3>
+      <p>4 merged PRs covering RAG chunking, memory initialization, attachment filtering, and focused regression coverage for edge cases.</p>
       <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
     <td width="50%" valign="top">
@@ -61,7 +61,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
   </tr>
 </table>
 
-<sub>Contribution counts above were verified on 2026-09-06 and link to merged-PR searches or individual merged PRs.</sub>
+<sub>Contribution counts above were verified on 2026-09-08 and link to merged-PR searches or individual merged PRs.</sub>
 
 ## What I work on
 
