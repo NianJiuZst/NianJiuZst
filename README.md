@@ -84,25 +84,25 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 ## GitHub snapshot
 
 <div align="center">
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs#gh-light-mode-only" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs&v=20260924#gh-light-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs&v=20260924#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
   </a>
-  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true&v=20260830#gh-light-mode-only">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true&v=20260830#gh-light-mode-only" alt="Most-used languages: TypeScript 89.11%, HTML 3.89%, JavaScript 3.65%, Rust 1.79%, CSS 1.31%, Dockerfile 0.17%, and PLpgSQL 0.08%" height="185" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs#gh-dark-mode-only" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
-  </a>
-  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true&v=20260830#gh-dark-mode-only">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true&v=20260830#gh-dark-mode-only" alt="Most-used languages: TypeScript 89.11%, HTML 3.89%, JavaScript 3.65%, Rust 1.79%, CSS 1.31%, Dockerfile 0.17%, and PLpgSQL 0.08%" height="185" />
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true&v=20260924#gh-light-mode-only">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&include_all_commits=true&v=20260924#gh-light-mode-only" alt="Most-used languages: TypeScript 89.15%, HTML 3.87%, JavaScript 3.63%, Rust 1.78%, CSS 1.31%, Dockerfile 0.17%, and PLpgSQL 0.08%" height="185" />
   </a>
 </div>
 
 <div align="center">
-  <sub>357 public pull requests authored as of 2026-09-24.</sub>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs&v=20260924#gh-dark-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs&v=20260924#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  </a>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true&v=20260924#gh-dark-mode-only">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&include_all_commits=true&v=20260924#gh-dark-mode-only" alt="Most-used languages: TypeScript 89.15%, HTML 3.87%, JavaScript 3.63%, Rust 1.78%, CSS 1.31%, Dockerfile 0.17%, and PLpgSQL 0.08%" height="185" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Snapshot verified on 2026-09-24: 69 stars · 3k commits · 359 pull requests · 27 issues.</sub>
 </div>
 
 ## Core stack
