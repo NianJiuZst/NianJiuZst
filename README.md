@@ -16,7 +16,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 76 merged PRs</h3>
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 77 merged PRs</h3>
       <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
       <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -51,23 +51,33 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/openrewrite/rewrite">OpenRewrite</a> · 1 merged PR</h3>
+      <p>Fixed Groovy parsing of successive <code>@Field</code> declarations so Jenkinsfiles retain annotations, comments, and types.</p>
+      <a href="https://github.com/openrewrite/rewrite/pull/8620">View contribution →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/grpc/grpc-java">grpc-java</a> · 1 merged PR</h3>
+      <p>Made Netty TLS hostname verification configurable while keeping HTTPS verification as the default.</p>
+      <a href="https://github.com/grpc/grpc-java/pull/13002">View contribution →</a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" valign="top">
-      <h3>Recent Java OSS work · 3 merged PRs</h3>
-      <p>Contributed parser correctness, secure networking defaults, and test-infrastructure improvements across OpenRewrite, grpc-java, and Checkstyle.</p>
-      <a href="https://github.com/openrewrite/rewrite/pull/8620">OpenRewrite #8620</a> ·
-      <a href="https://github.com/grpc/grpc-java/pull/13002">grpc-java #13002</a> ·
-      <a href="https://github.com/checkstyle/checkstyle/pull/21306">Checkstyle #21306</a>
+      <h3><a href="https://github.com/checkstyle/checkstyle">Checkstyle</a> · 3 merged PRs</h3>
+      <p>Improved <code>module-info.java</code> test input structure, violation placement, and documentation examples.</p>
+      <a href="https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
   </tr>
 </table>
 
-<sub>Contribution counts above were verified on 2026-09-19 and link to merged-PR searches or individual merged PRs.</sub>
+<sub>Contribution counts above were verified on 2026-09-24 and link to merged-PR searches or individual merged PRs.</sub>
 
 ## What I work on
 
 - **AI agents & runtimes** — dependable tool use, streaming behavior, model integrations, and agent lifecycle design.
 - **CLI & developer experience** — trustworthy diagnostics, API ergonomics, release quality, and automation that developers enjoy using.
-- **Java ecosystem engineering** — parser correctness, secure networking defaults, static-analysis test infrastructure, and focused regression coverage.
+- **Java ecosystem engineering** — parser correctness, configurable TLS hostname verification, static-analysis test infrastructure, and focused regression coverage.
 - **Frontend systems** — accessible UI foundations, product flows, and practical design-system migrations.
 - **Open-source collaboration** — issue triage, focused fixes, maintainable tests, thoughtful reviews, and clear evidence for maintainers.
 
@@ -92,7 +102,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 </div>
 
 <div align="center">
-  <sub>Snapshot verified on 2026-08-30: 69 stars · 2,495 commits · 324 pull requests · 24 issues.</sub>
+  <sub>357 public pull requests authored as of 2026-09-24.</sub>
 </div>
 
 ## Core stack
