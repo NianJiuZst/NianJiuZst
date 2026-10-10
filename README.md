@@ -16,7 +16,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 82 merged PRs</h3>
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a> · 84 merged PRs</h3>
       <p>Reliability work across channel delivery, agent runtime, gateways, mobile clients, and model-provider integrations.</p>
       <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
@@ -71,7 +71,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
   </tr>
 </table>
 
-<sub>Contribution counts above were verified on 2026-10-06 and link to merged-PR searches or individual merged PRs.</sub>
+<sub>Contribution counts above were verified on 2026-10-10 and link to merged-PR searches or individual merged PRs.</sub>
 
 ## What I work on
 
@@ -84,25 +84,25 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 ## GitHub snapshot
 
 <div align="center">
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs&v=20261006#gh-light-mode-only" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs&v=20261006#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs&v=20261010#gh-light-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&show_icons=true&include_all_commits=true&hide=contribs&v=20261010#gh-light-mode-only" alt="NianJiu's GitHub statistics" height="185" />
   </a>
-  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261006#gh-light-mode-only">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261006#gh-light-mode-only" alt="Languages by code size in NianJiu's public, non-forked repositories" height="185" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs&v=20261006#gh-dark-mode-only" target="_blank">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs&v=20261006#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
-  </a>
-  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261006#gh-dark-mode-only">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261006#gh-dark-mode-only" alt="Languages by code size in NianJiu's public, non-forked repositories" height="185" />
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261010#gh-light-mode-only">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261010#gh-light-mode-only" alt="Languages by code size in NianJiu's public, non-forked repositories" height="185" />
   </a>
 </div>
 
 <div align="center">
-  <sub>Stats-card snapshot verified on 2026-10-06: 71 stars · 3.1k commits · 387 pull requests · 34 issues.</sub>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs&v=20261010#gh-dark-mode-only" target="_blank">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NianJiuZst&theme=calm&show_icons=true&include_all_commits=true&hide=contribs&v=20261010#gh-dark-mode-only" alt="NianJiu's GitHub statistics" height="185" />
+  </a>
+  <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261010#gh-dark-mode-only">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NianJiuZst&theme=calm&layout=compact&langs_count=8&custom_title=Languages%20in%20my%20repos&v=20261010#gh-dark-mode-only" alt="Languages by code size in NianJiu's public, non-forked repositories" height="185" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Stats-card snapshot verified on 2026-10-10: 70 stars · 3.3k commits · 389 pull requests · 34 issues.</sub>
   <br />
   <sub>Language percentages reflect code in public, non-forked repositories; Java contributions to the projects above are outside this chart.</sub>
 </div>
