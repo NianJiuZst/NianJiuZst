@@ -77,6 +77,7 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
 
 - **AI agents & runtimes** — dependable tool use, streaming behavior, model integrations, and agent lifecycle design.
 - **CLI & developer experience** — trustworthy diagnostics, API ergonomics, release quality, and automation that developers enjoy using.
+- **Rust tooling & systems** — efficient CLIs, reliable daemon and session lifecycles, inter-process communication, and Rust–TypeScript protocol consistency.
 - **Java ecosystem engineering** — parser correctness, configurable TLS hostname verification, static-analysis test infrastructure, and focused regression coverage.
 - **Frontend systems** — accessible UI foundations, product flows, and practical design-system migrations.
 - **Open-source collaboration** — issue triage, focused fixes, maintainable tests, thoughtful reviews, and clear evidence for maintainers.
