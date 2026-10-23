@@ -4,7 +4,7 @@
 
 ### Open-source maintainer · AI agents · Developer tooling
 
-I build dependable AI-agent systems, polished CLIs, and developer experiences — then help make the open-source projects behind them stronger.
+I maintain [BrowserSkill](https://github.com/Tencent/BrowserSkill) and [MiniMax CLI](https://github.com/MiniMax-AI/cli), and build dependable AI-agent systems, polished CLIs, and developer experiences.
 
 [![Followers](https://img.shields.io/github/followers/NianJiuZst?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/NianJiuZst?tab=followers)
 [![Email](https://img.shields.io/badge/Email-3235467914%40qq.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3235467914@qq.com)
@@ -33,8 +33,8 @@ I build dependable AI-agent systems, polished CLIs, and developer experiences �
       <a href="https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · 17 merged PRs</h3>
-      <p>Improved CLI health-check semantics, daemon session lifecycle, extension safety, and pull-request CI.</p>
+      <h3><a href="https://github.com/Tencent/BrowserSkill">BrowserSkill</a> · Maintainer</h3>
+      <p>17 merged PRs improving CLI health-check semantics, daemon session lifecycle, extension safety, and pull-request CI.</p>
       <a href="https://github.com/Tencent/BrowserSkill/pulls?q=is%3Apr+author%3ANianJiuZst+is%3Amerged">View contributions →</a>
     </td>
   </tr>
